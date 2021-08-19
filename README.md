@@ -13,7 +13,7 @@
 <br>
 
 ## Skills
-<img src="https://img.shields.io/badge/HTML5-b4e7bb?style=flat-square&logo=HTML5&logoColor=000000"/> <img src="https://img.shields.io/badge/CSS3-b4e7bb?style=flat-square&logo=CSS3&logoColor=000000"/> <img src="https://img.shields.io/badge/JavaScript-b4e7bb?style=flat-square&logo=JavaScript&logoColor=000000"/> <img src="https://img.shields.io/badge/jQuery-b4e7bb?style=flat-square&logo=jQuery&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HTML5-b4e7bb?style=flat-square&logo=HTML5&logoColor=000000"/> <img src="https://img.shields.io/badge/CSS3-b4e7bb?style=flat-square&logo=CSS3&logoColor=000000"/> <img src="https://img.shields.io/badge/Sass-b4e7bb?style=flat-square&logo=sass&logoColor=000000"/> <img src="https://img.shields.io/badge/JavaScript-b4e7bb?style=flat-square&logo=JavaScript&logoColor=000000"/> <img src="https://img.shields.io/badge/jQuery-b4e7bb?style=flat-square&logo=jQuery&logoColor=000000"/>
 
 <br>
 
