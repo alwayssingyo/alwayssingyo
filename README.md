@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?text=Seungyeon   Sung&fontColor=#ffffff&type=transparent&color=#00000&animation=fadeIn&fontSize=50"
+<img src="https://capsule-render.vercel.app/api?text=SeungyeonSung&fontColor=#ffffff&type=transparent&color=#ffffff&animation=fadeIn&fontSize=50"
 />
 
 <!--
