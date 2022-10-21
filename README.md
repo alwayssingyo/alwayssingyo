@@ -3,13 +3,13 @@
 
 <br>
 
-### Web Publisher / Markup Developer
+### Frontend Developer
 
 
 <br>
 
 ## Skills
-<img src="https://img.shields.io/badge/HTML5-b4e7bb?style=flat-square&logo=HTML5&logoColor=000000"/> <img src="https://img.shields.io/badge/CSS3-b4e7bb?style=flat-square&logo=CSS3&logoColor=000000"/> <img src="https://img.shields.io/badge/JavaScript-b4e7bb?style=flat-square&logo=JavaScript&logoColor=000000"/> <img src="https://img.shields.io/badge/jQuery-b4e7bb?style=flat-square&logo=jQuery&logoColor=000000"/> <img src="https://img.shields.io/badge/Bootstrap-b4e7bb?style=flat-square&logo=Bootstrap&logoColor=000000"/> and I'm studying <img src="https://img.shields.io/badge/React.js-b4e7bb?style=flat-square&logo=React&logoColor=000000"/> <img src="https://img.shields.io/badge/Vue.js-b4e7bb?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HTML5-b4e7bb?style=flat-square&logo=HTML5&logoColor=000000"/> <img src="https://img.shields.io/badge/CSS3-b4e7bb?style=flat-square&logo=CSS3&logoColor=000000"/> <img src="https://img.shields.io/badge/JavaScript-b4e7bb?style=flat-square&logo=JavaScript&logoColor=000000"/> <img src="https://img.shields.io/badge/jQuery-b4e7bb?style=flat-square&logo=jQuery&logoColor=000000"/> <img src="https://img.shields.io/badge/React.js-b4e7bb?style=flat-square&logo=React&logoColor=000000"/> <img src="https://img.shields.io/badge/Vue.js-b4e7bb?style=flat-square&logoColor=000000"/>
 
 <br>
 
@@ -19,8 +19,7 @@
 <br>
 
 ## Education
-**2019 Aug** &nbsp;&nbsp;&nbsp;&nbsp; Hongik University, Liberal Arts Korean Language & Literature
+**2019 Aug** &nbsp;&nbsp;&nbsp;&nbsp; Hongik University
+
 
 <br>
-
-## Projects
