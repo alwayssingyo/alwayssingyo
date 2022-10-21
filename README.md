@@ -3,7 +3,7 @@
 
 <br>
 
-### Frontend Developer
+### Front-End Developer
 
 
 <br>
